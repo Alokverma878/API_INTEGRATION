@@ -1,11 +1,18 @@
 # API_INTEHRATION- WEATHER APP
 
 *COMPANY*: CODTECH IT SOLUTIONS
+
 *NAME*: VERMA ALOKKUMAR AMARDAYAL
+
 *INTERN ID*: CT06DF1774
+
 *DOMAIN*: FULL STACK WEB DEVELOPMENT
+
 *DURATION*: 6 WEEKS
+
 *MENTOR*: NEELA SANTOSH
+
+
 
 A sleek and responsive weather application built with HTML, CSS, and JavaScript. This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to 
 fetch real-time weather data for any city entered by the user.
