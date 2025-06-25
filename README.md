@@ -49,7 +49,7 @@ fetch real-time weather data for any city entered by the user.
    *Sign up at OpenWeatherMap
    *Navigate to your API keys under the My Profile section
    *Copy your API key
-3. Insert Your API Key
+3. Insert Your API Key ( index.html file)
     e.g. const apiKey = "Your API key";
 4. Run the App
   Just open index.html in your browser.
